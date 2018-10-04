@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "zahiiir">> /tmp/FRIGOOOODDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDdDDDD
+echo "zahiiir">> /tmp/Resultat_exo_sh_git
