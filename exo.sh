@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "zahiiir">> /tmp/FRIGOOOO
+echo "zahiiir">> /tmp/FRIGOOOODDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDdDDDD

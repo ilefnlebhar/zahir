@@ -1,2 +1,2 @@
 #!/bin/bash
-echo " from zoro " >>/tmp/ZOROOOOOOOOOOOOOOOOOOOOOO
+echo " from zoro " >>/tmp/ZOROOOOOOOOOOOOOOOOOOOOORRRRRRRRRRRRRRRRRRRRRRRRRRR
