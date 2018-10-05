@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "zahiiir $1 ">> /tmp/Resultat_exo_sh_git
+echo "azul Etape_1 ">> /tmp/Resultat_Etape_1
